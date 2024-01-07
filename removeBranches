@@ -1,0 +1,7 @@
+locally 
+git branch -d dev
+git branch -d test
+
+remotely
+git push Git :dev
+git push Git :test
