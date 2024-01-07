@@ -1,0 +1,10 @@
+list tags
+git tag
+
+
+delete local tags
+git tag -d v1.7
+
+delete remote tag
+git push Git --delete v1.7
+
